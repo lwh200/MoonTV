@@ -79,7 +79,7 @@
     },
     "ckzy": {
        "api": "https://www.ckzy1.com",
-        "name": "CK资源"
+        "name": "CK资源",
         "adult": true
     }
   }
