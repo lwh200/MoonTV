@@ -85,5 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "pexels":{
+      "api": "https://api.istero.com/resource/v1/pexels/video/search",
+      "name": "pexels"
+    }
   }
 }
