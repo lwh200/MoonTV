@@ -85,6 +85,22 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
+    " iqiyi": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
+    },
+    "hwba": {
+      "api": "https://cjhwba.com/api.php/provide/vod",
+      "name": "华为吧资源"
+    },
+    "baidu": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度云资源"
+    },
+    "ckzy": {
+      "api": "https://www.ckzy1.com",
+      "name": "CK资源"
+    },
     "pexels": {
       "api": "https://api.istero.com/resource/v1/pexels/video/search",
       "name" :"pexels"
